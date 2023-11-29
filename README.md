@@ -69,7 +69,7 @@
    
 3、项目头文件common.h中可能有一些未用到的结构用户可以自定义剪裁
 
-4、核心代码在src/videoOption
+4、核心代码在src/videoOption (可以直接使用这里文件)
 
    - FFmpegDecoder.*只要是获取输入url的信息和解复用数据(编码后的音视频数据)
      
